@@ -1,0 +1,14 @@
+platform :ios, '9.0'
+
+target 'MovieVapp' do
+
+  use_frameworks!
+
+  pod 'SwiftLint'
+  
+  target 'MovieVappTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
