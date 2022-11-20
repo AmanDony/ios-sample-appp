@@ -40,7 +40,3 @@ The UI appearance of this app is currently under construction 😂
 One advantage of VIPER is that it makes unit testing so much easier!
 We have been able to fully test Interactor, Presenter, Entity and Router. 
 
-## Module Generation
-VIPER comes with a lot of boilplate codes. We have created a script to generate the most basic viper modules https://github.com/SwiftTsubame/TsubameVIPER.git. This script will also be further improved according to the evolution of our understanding of VIPER.
-
-
